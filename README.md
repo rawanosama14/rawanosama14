@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rawanosama14" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome!+👋;+I'm+Rawan+Alashlam;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&color=9370DB&lines=Welcome!+👋;+I'm+Rawan+Alashlam;" />
 </h1>
 
 <h3 align="center">AI & Backend Engineer | CS Student</h3>
