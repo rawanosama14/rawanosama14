@@ -57,7 +57,7 @@
 
 ---
 
-## 🎮 Contribution Snake Game
+## 🔄 Contribution Dynamics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rawanosama14/rawanosama14/output/github-contribution-grid-snake.svg" alt="" width="100%" />
