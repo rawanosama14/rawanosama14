@@ -77,5 +77,4 @@
   </a>
 </div>
 
-### 📆 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rawanosama14&custom_title=Rawan's%20Development%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
