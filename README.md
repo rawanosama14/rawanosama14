@@ -1,69 +1,81 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9370DB&center=true&vCenter=true&width=850&height=80&lines=Welcome+to+My+Profile+%F0%9F%91%8B;Rawan+Osama+Nageeb+Alashlam;CS+Student+%40+Egyptian+Chinese+University;AI,+Deep+Learning,+NLP+%26+Full+Stack+Enthusiast" alt="" />
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rawanosama14" />
 
-<!-- Social & Tech Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/rawan-alashlam-376029305"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Welcome!+👋;+I'm+Rawan+Alashlam;" />
+</h1>
+
+<h3 align="center">AI & Backend Engineer | CS Student</h3>
+
+<br/>
+
+<div align="center">
+  🎓 Computer Science Student @ Egyptian Chinese University (ECU '27)<br/>
+  💻 Passionate about Machine Learning, Deep Learning, & Scalable Systems
+</div>
+
+<br/>
+
+<div align="center">  
+  <a href="mailto:rawanalashlam419@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/rawan-alashlam-376029305" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 👨‍💻 Professional Overview
+**Multi-disciplinary Developer** specializing in:
+- 🤖 Machine Learning & Deep Learning Engineering
+- 🧠 Natural Language Processing (NLP) & RAG Architectures
+- ⚙️ Backend Systems & Microservices Development (FastAPI, Docker, Kafka)
+- 🗄️ Database Management & Data Pipelines
+- 🔒 Cybersecurity & API Security Fundamentals
 
-* **AI & Machine Learning Enthusiast** specializing in Natural Language Processing (NLP), Deep Learning, RAG architectures, and LLM Orchestration.
-* **Multi-disciplinary Developer** with a strong foundation in Backend development, Data Analysis, Databases, and Frontend prototyping.
-* **Academic Background:** Computer Science and Information Technology student at Egyptian Chinese University (ECU), graduating in 2027.
+**Current Focus:** Building intelligent agent systems, real-time event streaming architectures, and advanced AI-driven backend applications.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### 🧠 Artificial Intelligence & Data Science
+### 🧠 AI, Machine Learning & Data
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/NLP-3776AB?style=flat&logo=python&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/RAG_&_Agents-1C3C3C?style=flat&logo=chainlink&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=flat&logo=pandas&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikit-learn" />
 </p>
 
-### ⚙️ Backend & Databases
+### 🌐 Backend, Databases & DevOps
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,postgresql,mysql,docker,git,github,aws" />
 </p>
 
 ### 🎨 Frontend & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Dynamics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rawanosama14/rawanosama14/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawanosama14&show_icons=true&theme=radical&hide_border=true" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanosama14&layout=compact&theme=radical&hide_border=true" alt="" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawanosama14&theme=radical&hide_border=true" alt="" />
-</p>
+## ⚡ GitHub Analytics
+
+### 📊 Profile Breakdown
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rawanosama14&theme=radical)](https://github.com/rawanosama14)
+
+### 📈 Activity Metrics
+<div align="center">
+  <a href="https://github.com/rawanosama14">
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rawanosama14&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rawanosama14&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
+  </a>
+</div>
+
+### 📆 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rawanosama14&custom_title=Rawan's%20Development%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
